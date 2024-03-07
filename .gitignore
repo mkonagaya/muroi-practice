@@ -1,0 +1,6 @@
+.env
+.vscode/launch.json
+
+# mysql volumes
+docker/db/data/
+docker/db/test_data/
