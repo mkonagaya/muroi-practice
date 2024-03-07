@@ -1,7 +1,3 @@
-# Bayer Central
-
-イーウーパスポート様 物流管理システム
-
 ## スタック
 
 Laravel9
