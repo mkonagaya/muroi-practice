@@ -19,6 +19,8 @@ final class IndexController extends Controller
      */
     public function __invoke(IndexRequest $request, IndexAction $action):JsonResponse
     {
+
+
         $body = $action($request);
 
         return response()->json($body);
