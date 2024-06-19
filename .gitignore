@@ -4,3 +4,6 @@
 # mysql volumes
 docker/db/data/
 docker/db/test_data/
+practice.pem
+practice.ppk
+rsa
